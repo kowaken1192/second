@@ -1,0 +1,27 @@
+
+
+body {
+    align-items: center;
+    background-color: greenyellow ;
+    display: flex;
+    font-display: swap;
+    justify-content: center;
+
+}
+.caluclation-button-row{
+    justify-content: space-between;
+
+}
+  
+.caluclation-button{
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    background: rgba(255,255,255,0);
+    border: 1px solid rgba (255,255,255,0,01);
+    border-radius: 16px;
+    flex-basis: 20%;
+    font-size: 24px;
+    height: 71px;
+    width: 71px;
+
+}
